@@ -1,0 +1,10 @@
+# Ignore directories
+data/
+full_dataset_patches/
+visualization_outputs/
+.claude/
+__pycache__/
+
+# Ignore raw images
+*.svs
+*.png
